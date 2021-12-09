@@ -1,1 +1,1 @@
-/Users/gmdot/Developer/rust_learning/test/hello-rust/target/debug/hello-rust: /Users/gmdot/Developer/rust_learning/test/hello-rust/src/main.rs
+/Users/gmdot/Developer/rust_learning/target/debug/hello-rust: /Users/gmdot/Developer/rust_learning/src/main.rs
